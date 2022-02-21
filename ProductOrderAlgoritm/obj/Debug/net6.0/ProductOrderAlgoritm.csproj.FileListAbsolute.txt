@@ -1,0 +1,15 @@
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\bin\Debug\net6.0\ProductOrderAlgoritm.exe
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\bin\Debug\net6.0\ProductOrderAlgoritm.deps.json
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\bin\Debug\net6.0\ProductOrderAlgoritm.runtimeconfig.json
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\bin\Debug\net6.0\ProductOrderAlgoritm.dll
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\bin\Debug\net6.0\ref\ProductOrderAlgoritm.dll
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\bin\Debug\net6.0\ProductOrderAlgoritm.pdb
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.AssemblyInfo.cs
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.dll
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ref\ProductOrderAlgoritm.dll
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.pdb
+C:\Users\Thijmen\Desktop\ProductOrderAlgoritm\ProductOrderAlgoritm\obj\Debug\net6.0\ProductOrderAlgoritm.genruntimeconfig.cache
