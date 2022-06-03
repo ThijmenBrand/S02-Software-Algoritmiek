@@ -1,0 +1,15 @@
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\bin\Debug\net6.0\project-euler-large-sum-1.exe
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\bin\Debug\net6.0\project-euler-large-sum-1.deps.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\bin\Debug\net6.0\project-euler-large-sum-1.runtimeconfig.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\bin\Debug\net6.0\project-euler-large-sum-1.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\bin\Debug\net6.0\project-euler-large-sum-1.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.csproj.AssemblyReference.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.AssemblyInfoInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.AssemblyInfo.cs
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\refint\project-euler-large-sum-1.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\project-euler-large-sum-1.genruntimeconfig.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\project-euler-large-sum-13\obj\Debug\net6.0\ref\project-euler-large-sum-1.dll

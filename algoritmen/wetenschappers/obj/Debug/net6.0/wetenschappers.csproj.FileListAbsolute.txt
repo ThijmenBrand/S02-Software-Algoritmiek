@@ -1,0 +1,15 @@
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\bin\Debug\net6.0\wetenschappers.exe
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\bin\Debug\net6.0\wetenschappers.deps.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\bin\Debug\net6.0\wetenschappers.runtimeconfig.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\bin\Debug\net6.0\wetenschappers.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\bin\Debug\net6.0\wetenschappers.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.csproj.AssemblyReference.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.AssemblyInfoInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.AssemblyInfo.cs
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\refint\wetenschappers.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\wetenschappers.genruntimeconfig.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\wetenschappers\obj\Debug\net6.0\ref\wetenschappers.dll

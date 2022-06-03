@@ -1,0 +1,15 @@
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\bin\Debug\net6.0\producten.exe
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\bin\Debug\net6.0\producten.deps.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\bin\Debug\net6.0\producten.runtimeconfig.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\bin\Debug\net6.0\producten.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\bin\Debug\net6.0\producten.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.csproj.AssemblyReference.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.AssemblyInfoInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.AssemblyInfo.cs
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\refint\producten.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\producten.genruntimeconfig.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\producten\obj\Debug\net6.0\ref\producten.dll

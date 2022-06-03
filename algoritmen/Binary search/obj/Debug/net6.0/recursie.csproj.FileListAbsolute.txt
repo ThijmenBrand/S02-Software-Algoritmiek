@@ -1,0 +1,15 @@
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\bin\Debug\net6.0\recursie.exe
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\bin\Debug\net6.0\recursie.deps.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\bin\Debug\net6.0\recursie.runtimeconfig.json
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\bin\Debug\net6.0\recursie.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\bin\Debug\net6.0\recursie.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.csproj.AssemblyReference.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.AssemblyInfoInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.AssemblyInfo.cs
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\refint\recursie.dll
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.pdb
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\recursie.genruntimeconfig.cache
+C:\Users\Thijmen\OneDrive\Fontys\S02\s02-software-algoritmiek\algoritmen\Binary search\obj\Debug\net6.0\ref\recursie.dll
