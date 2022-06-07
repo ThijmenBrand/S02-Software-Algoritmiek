@@ -13,8 +13,3 @@ def oneHotEncoding(inputArr):
     return returnArr
 
 print(oneHotEncoding(["peter", "peter", "frans", "albert", "coen", "frans"]))
-        
-
-
-    
-
