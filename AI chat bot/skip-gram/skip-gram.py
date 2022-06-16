@@ -84,7 +84,6 @@ class word2vec(object):
                         C += 1
                 #Bereken de totale loss van deze epoch om vervolgens in de backprop toegepast te kunnen worden.
                 self.loss += C*np.log(np.sum(np.exp(self.u)))
-            print("epoch ",x, " loss = ",self.loss)
             #Verklijnt de loss om overschieten te voorkomen
             self.alpha *= 1/( (1+self.alpha*x) )
             
@@ -129,8 +128,9 @@ def preprocessing(corpus):
         x = [word.lower() for word in x]
         training_data.append(x)
 
+        print(training_data)
+
     return training_data
-    
 
 def prepare_data_for_training(sentences,w2v):
     data = {}
@@ -163,7 +163,20 @@ def prepare_data_for_training(sentences,w2v):
     return w2v.X_train,w2v.y_train
 
 corpus = ""
-corpus += "Can you tell me the directions to the nearest train station?"
+corpus += """Shall I compare thee to a summer’s day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+And summer’s lease hath all too short a date:
+Sometime too hot the eye of heaven shines,
+And often is his gold complexion dimm’d;
+And every fair from fair sometime declines,
+By chance or nature’s changing course untrimm’d;
+But thy eternal summer shall not fade
+Nor lose possession of that fair thou owest;
+Nor shall Death brag thou wander’st in his shade,
+When in eternal lines to time thou growest:
+So long as men can breathe or eyes can see,
+So long lives this and this gives life to thee."""
 epochs = 10000
 
 training_data = preprocessing(corpus)
@@ -173,5 +186,5 @@ w2v = word2vec()
 prepare_data_for_training(training_data,w2v)
 w2v.train(epochs)
 centerword = corpus.split( )
-outcome = w2v.predict('train',3)
+outcome = w2v.predict('thee',3)
 print(outcome)
