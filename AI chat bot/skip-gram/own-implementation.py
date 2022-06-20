@@ -121,7 +121,7 @@ class word2vec():
         plt.show()
 
 
-corpus = """he is a king. she is a queen. he is a man. she is a woman. paris is the capital of france. the capital of france is paris. the capital of italy is rome. rome is the capital of italy. a queen is she. he is a king and a man"""
+corpus = """he is my father. my father is a king. a king is my father. my father is a men. a king is a men."""
 w2v = word2vec(10_000)
 training_data = w2v.generate_training_data(corpus)
 w2v.train(training_data)
